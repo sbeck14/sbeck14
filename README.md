@@ -13,9 +13,7 @@ Senior Cloud Engineer @ [O.C. Tanner](https://www.octanner.com)
 
 ### Certifications
 <a href="https://www.cncf.io/certification/cka/"><img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg" width="75" height="75" alt="AWS" /></a>
-
 <br />
-
 <hr />
 <a href="https://www.linkedin.com/in/sbeck14"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30"  alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/sbeck14/"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" width="30" height="30" alt="Instagram" /></a>
