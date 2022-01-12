@@ -8,7 +8,7 @@ Senior Cloud Engineer @ [O.C. Tanner](https://www.octanner.com)
 <a href="https://docker.com"><img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" height="50" alt="Docker" /></a>
 <a href="https://aws.amazon.com"><img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" width="50" height="50" alt="AWS" /></a>
 <a href="https://reactjs.org"><img src="https://reactjs.org/icons/icon-512x512.png?v=f4d46f030265b4c48a05c999b8d93791" width="50" height="50" alt="React.js" /></a>
-<a href="https://terraform.io"><img src="hhttps://dustindortch.files.wordpress.com/2020/08/terraform-logo.png" width="50" height="50" alt="Terraform" /></a>
+<a href="https://terraform.io"><img src="https://dustindortch.files.wordpress.com/2020/08/terraform-logo.png" width="50" height="50" alt="Terraform" /></a>
 <a href="https://github.com/akkeris"><img src="https://avatars.githubusercontent.com/u/33560024?s=200&v=4" width="50" height="50" alt="Akkeris" /></a>
 
 ### Certifications
