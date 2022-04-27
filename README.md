@@ -1,5 +1,5 @@
 # Sam Beckett
-Senior Cloud Engineer @ [O.C. Tanner](https://www.octanner.com)
+Lead Software Engineer @ [Mastercard](https://www.finicity.com)
 
 ### Tech Stack
 <a href="https://nodejs.org/en/"><img src="https://nodejs.org/static/images/favicons/apple-touch-icon.png" width="50" height="50" alt="Node.js" /></a>
